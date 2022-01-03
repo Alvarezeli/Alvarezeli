@@ -1,6 +1,7 @@
 ### Holi 👋👋
-Mi nombre es Eliana Alvarez y soy una full-stack developer con orientación al front-end.
-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize entre otras
+-Mi nombre es **Eliana Alvarez** y soy una full-stack developer con orientación al front-end.
+-Tecnologías que manejo: HTML, CSS, Javascrip, React, Redux, Express, SQL, Sequelize entre otras
+
 <!--
 **Alvarezeli/Alvarezeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
