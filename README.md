@@ -13,7 +13,7 @@
 <a href="mailto:alvarezeliana00@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1641350902~hmac=cafcdb1ea0d4451dea1bbee27e075da5" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
 </span>
 
-## Ey, gracias por leerme! Ten un buen día ✨✨
+# Ey, gracias por leerme! Ten un buen día ✨✨
 
 <!--
 **Alvarezeli/Alvarezeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
