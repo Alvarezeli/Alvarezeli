@@ -3,7 +3,7 @@
 - 💻Tecnologías que manejo: HTML, CSS, Javascript, React, React-Native, Redux, Express, SQL, Sequelize entre otras.
 - 🌱 Actualmente estoy aprendiendo React-Native.
 - 👯 Busco colaborar en proyectos que generen un impacto positivo en la sociedad y en mi misma. 
-- ⚡ ¿Algo más sobre mi?: Si no estoy codeando seguro me encontras en el patio hablandole a las plantas!
+- ⚡ ¿Algo más sobre mi? Si no estoy codeando seguro me encontras en el patio hablandole a las plantas!
 
 ## Contacto:
 
