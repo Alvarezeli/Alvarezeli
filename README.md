@@ -5,6 +5,12 @@
 - 👯 Busco colaborar en proyectos que generen un impacto positivo en la sociedad y en mi misma. 
 - ⚡ ¿Algo más sobre mi? Si no estoy codeando seguro me encontras en el patio hablandole a las plantas!
 
+## Proyectos:
+
+<p>
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192230.png'></a>
+</p>
+
 ## Contacto:
 
 <span align="center">
