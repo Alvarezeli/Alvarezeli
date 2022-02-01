@@ -11,14 +11,14 @@
 ### Videogames App: 
 
 <p>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20211426.png' height="50%" width="30%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192230.png' height="50%" width="30%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192444.png' height="50%" width="30%"/></a>
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20211426.png' height="50%" width="40%"/></a>
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192230.png' height="50%" width="40%"/></a>
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192444.png' height="50%" width="40%"/></a>
 </p>
 
 <p>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192542.png' height="50%" width="30%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192623.png' height="50%" width="30%"/></a> 
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192542.png' height="50%" width="40%"/></a>
+  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192623.png' height="50%" width="40%"/></a> 
 </p>
 
 ## Contacto:
