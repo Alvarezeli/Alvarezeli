@@ -6,7 +6,7 @@
 - 👯 Busco colaborar en proyectos que generen un impacto positivo en la sociedad y en mi misma.
 - ⚡ ¿Algo más sobre mi? Si no estoy codeando seguro me encontras en el patio hablandole a las plantas!
 
-## Proyectos:
+## 📌 Proyectos:
 
 ### Videogames App: 
 
@@ -18,7 +18,7 @@
   <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192623.png' height="45%" width="45%"/></a> 
 </p>
 
-## Contacto:
+## 📌 Contactame:
 
 <span align="center">
 <a href="http://www.linkedin.com/in/eliana-gabriela-alvarez/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="apoorvtyagi" height="45" width="45" /></a>&nbsp;
