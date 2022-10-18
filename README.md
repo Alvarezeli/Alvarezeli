@@ -2,20 +2,8 @@
 
 - ✨ Mi nombre es **Eliana Alvarez** y soy una full-stack developer con orientación al front-end.
 - 💻Tecnologías que manejo: HTML, CSS, Javascript, React, React-Native, Redux, Express, SQL, Sequelize entre otras.
-- 🌱 Actualmente estoy aprendiendo React-Native.
 - 👯 Busco colaborar en proyectos que generen un impacto positivo en la sociedad y en mi misma.
 - ⚡ ¿Algo más sobre mi? Si no estoy codeando seguro me encontras en el patio hablandole a las plantas!
-
-## 📌 Proyectos:
-
-### Videogames App: 
-
-<p>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192230.png' height="45%" width="45%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192444.png' height="45%" width="45%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192542.png' height="45%" width="45%"/></a>
-  <a><img src='https://github.com/Alvarezeli/Alvarezeli/blob/main/PI%20-%20videogames/Captura%20de%20pantalla%202022-01-31%20192623.png' height="45%" width="45%"/></a> 
-</p>
 
 ## 📌 Contactame:
 
